@@ -1,16 +1,13 @@
-## Hi there 👋
+# Francis Longo
 
-<!--
-**artexhibitionfeed/artexhibitionfeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder / Product Designer / Builder
 
-Here are some ideas to get you started:
+I build products at the intersection of design, culture, data, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building [Seeke.art](https://seeke.art) — a mobile-first platform for discovering art exhibitions and opportunities.
+
+My work spans product strategy, visual identity, UI/UX, frontend implementation, and the data and automation systems that keep a live product useful. I use AI-assisted development to move quickly while staying close to the product decisions that matter.
+
+**Working with:** Next.js, Supabase, Vercel, APIs, automation, and editorial/data-quality systems.
+
+[Explore Seeke.art](https://seeke.art) · [Seeke product overview](https://github.com/artexhibitionfeed/seeke)
